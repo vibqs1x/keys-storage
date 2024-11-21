@@ -1,0 +1,11 @@
+{
+  "enableAimbot": false,
+  "drawFov": false,
+  "syncToFps": false,
+  "predictionDot": false,
+  "predictionDotSize": 5,
+  "smoothness": 10,
+  "fov": 200,
+  "predictionMultiplier": 100,
+  "hitboxes": ["Head", "Chest"]
+}
