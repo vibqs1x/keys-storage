@@ -1,1 +1,1 @@
-{"enableAimbot":false,"drawFov":false,"smoothness":"10","fov":"200","predictionMultiplier":"100","hitboxes":[]}
+{"enableAimbot":true,"drawFov":false,"smoothness":"45","fov":"26","predictionMultiplier":"500","hitboxes":[]}
