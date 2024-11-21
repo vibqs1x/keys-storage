@@ -3,6 +3,6 @@
   {"weapon": "shotgun", "settings": {"smoothness": 26, "fov": 100, "predictionMultiplier": 100}},
   {"weapon": "sniper", "settings": {"smoothness": 26, "fov": 100, "predictionMultiplier": 100}},
   {"weapon": "SMG", "settings": {"smoothness": 26, "fov": 100, "predictionMultiplier": 100}},
-    {"weapon": "Pistol", "settings": {"smoothness": 26, "fov": 100, "predictionMultiplier": 100}},
-    {"weapon": "Rifle", "settings": {"smoothness": 26, "fov": 100, "predictionMultiplier": 100}},
+  {"weapon": "Pistol", "settings": {"smoothness": 26, "fov": 100, "predictionMultiplier": 100}},
+  {"weapon": "Rifle", "settings": {"smoothness": 26, "fov": 100, "predictionMultiplier": 100}},
 ]
