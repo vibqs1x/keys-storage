@@ -1,0 +1,51 @@
+{
+  "Aimbot": true,
+  "drawFov": false,
+  "syncToFps": false,
+  "predictionDot": false,
+  "predictionDotSize": "5",
+  "ignoreNpcs": false,
+  "ignoreKnocked": false,
+  "ignoreTeammates": false,
+  "visibleCheck": false,
+  "hardLock": false,
+  "head": false,
+  "neck": true,
+  "chest": true,
+  "pelvis": false,
+  "hands": false,
+  "shoulder": false,
+  "elbows": true,
+  "knees": false,
+  "hips": false,
+  "feet": false,
+  "skeletonEsp": false,
+  "boxEsp": false,
+  "boxFilled": false,
+  "weaponSettings": {
+    "global": {
+      "smoothing": 1,
+      "fov": 10
+    },
+    "shotgun": {
+      "smoothing": 200,
+      "fov": 500
+    },
+    "sniper": {
+      "smoothing": 50,
+      "fov": 300
+    },
+    "smg": {
+      "smoothing": 75,
+      "fov": 400
+    },
+    "pistol": {
+      "smoothing": 10,
+      "fov": 150
+    },
+    "rifle": {
+      "smoothing": 125,
+      "fov": 350
+    }
+  }
+}
