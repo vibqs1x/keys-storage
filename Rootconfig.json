@@ -19,7 +19,7 @@
   "knees": false,
   "hips": false,
   "feet": false,
-  "skeletonEsp": false,
+  "skeletonEsp": true,
   "boxEsp": false,
   "boxFilled": false,
   "weaponSettings": {
