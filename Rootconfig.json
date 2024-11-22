@@ -1,0 +1,12 @@
+{
+  "Aimbot": false,
+  "drawFov": false,
+  "syncToFps": false,
+  "predictionDot": false,
+  "predictionDotSize": "5",
+  "ignoreNpcs": false,
+  "ignoreKnocked": false,
+  "ignoreTeammates": false,
+  "visibleCheck": false,
+  "hardLock": false
+}
