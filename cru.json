@@ -3,7 +3,7 @@
     "Spoofer": "False",
     "Shotgun": "True",
     "SMG": "True",
-    "Hitreg": "True",
+    "Hitreg": "False",
     "Bloom": "False",
     "AimAssist": "False",
     "Drop": "False",
