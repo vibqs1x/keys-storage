@@ -2,7 +2,7 @@
     "Cheat": "False",
     "Spoofer": "False",
     "Shotgun": "True",
-    "Smg": "False",
+    "SMG": "True",
     "Hitreg": "True",
     "Bloom": "False",
     "AimAssist": "False",
