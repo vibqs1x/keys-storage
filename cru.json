@@ -1,9 +1,11 @@
-Cheat - False
-Spoofer - False
-Shotgun - True
-Smg - False
-Hitreg - True
-Bloom - False
-AimAssist - False
-Drop - False
-Place - False
+{
+    "Cheat": "False",
+    "Spoofer": "False",
+    "Shotgun": "True",
+    "Smg": "False",
+    "Hitreg": "True",
+    "Bloom": "False",
+    "AimAssist": "False",
+    "Drop": "False",
+    "Place": "False"
+}
