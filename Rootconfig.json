@@ -1,5 +1,5 @@
 {
-  "Aimbot": false,
+  "Aimbot": true,
   "drawFov": false,
   "syncToFps": false,
   "predictionDot": false,
@@ -24,16 +24,16 @@
   "boxFilled": false,
   "weaponSettings": {
     "global": {
-      "smoothing": 1,
-      "fov": 10
+      "smoothing": 5,
+      "fov": 100
     },
     "shotgun": {
-      "smoothing": 1,
-      "fov": 10
+      "smoothing": 200,
+      "fov": 500
     },
     "sniper": {
-      "smoothing": 182.25,
-      "fov": 428
+      "smoothing": 50,
+      "fov": 300
     },
     "smg": {
       "smoothing": 75,
